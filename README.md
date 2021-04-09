@@ -1,6 +1,6 @@
-# Interface de Mapeamento 
+# Mapping Interface
 
-A estratégia de mapeamento é a alma de um instrumento musical digital (DMI), tendo em vista essa importância, esta interface foi criada para suprir limitações percebidas em outras interfaces de mapeamento, usando elementos de Programação Visual para criar linhas de fluxo. Por ser executada no browser, também mostra praticidade pois não é necessário instalar bibliotecas, apenas as dependências do projeto.    
+The mapping strategy is the soul of a digital musical instrument (DMI), in view of this importance, this interface was created to overcome perceived limitations in other mapping interfaces, using elements of Visual Programming to create flow lines. As it is executed in the browser, it also shows practicality because it is not necessary to install libraries, only the project's dependencies.
 
 
 ## Project setup
